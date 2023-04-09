@@ -1,0 +1,35 @@
+/* Write your code here. */
+* {
+  font-family: roboto;
+}
+
+.navbar-container {
+  background-image: linear-gradient(#9796f0, #ffffff33);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  opacity: initial;
+}
+.navbar-logo-heading-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.hide-container {
+  display: none;
+}
+.emoji-game-logo {
+  margin-right: 10px;
+  height: 50px;
+}
+.navbar-heading {
+  color: #ffffff;
+}
+.paragraph {
+  color: #ffffff;
+  margin-right: 20px;
+  font-weight: bold;
+}
+.results-shows {
+  display: none;
+}

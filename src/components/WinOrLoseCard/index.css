@@ -1,0 +1,35 @@
+/* Write your code here. */
+* {
+  font-family: roboto;
+}
+.results-bg-container {
+  background-color: #ffffff33;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin-top: 20px;
+}
+.results-image {
+  height: 300px;
+  width: 250px;
+}
+.results-score-container {
+  text-align: center;
+}
+.results-heading {
+  color: #ffffff;
+}
+.score-paragraph {
+  color: #6a59ff;
+  font-weight: bold;
+}
+.play-button {
+  background-color: #ffce27;
+  border-radius: 10px;
+  border: none;
+  padding: 10px;
+  color: #3d3d3d;
+  font-weight: bold;
+}
